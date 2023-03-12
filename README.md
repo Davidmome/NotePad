@@ -24,7 +24,7 @@ Puedes utilizar esta aplicacion para apuntar tus asuntos pendientes
 
 ## Demostracion
 
-![Link heroku](https://notepadweb.herokuapp.com/notes)
+https://notepadweb.herokuapp.com/notes
 
 ![imagen de la aplicacion](./Develop/img/pagina.PNG)
 
